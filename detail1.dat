@@ -1,0 +1,28 @@
+[
+    {
+        "name": "anuj",
+        "age": "18",
+        "job": "eng",
+        "salary_got": [
+            120000,
+            23000
+        ],
+        "salary_spend": [
+            123,
+            345
+        ]
+    },
+    {
+        "name": "tom",
+        "age": "12",
+        "job": "bio",
+        "salary_got": [
+            50000,
+            4000
+        ],
+        "salary_spend": [
+            6000,
+            70000
+        ]
+    }
+]
